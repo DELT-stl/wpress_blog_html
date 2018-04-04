@@ -1,0 +1,96 @@
+@media (max-width:360px) {
+    .graybox {
+        
+        width:100% !important;
+        padding:0 !important;
+        margin:0 !important;
+        height:10rem !important;
+    }
+    .posts-image {
+/*        width:50%    */
+    }
+    h1 {
+        font-size:2rem !important;
+        display:inline-block;
+
+    }
+    .under_the_box * {
+        margin-left:40px;
+        margin-right:40px;
+    }
+    .menumid {
+        display:none;
+    }
+    .posts-page {
+/*        height:100vh !important;*/
+    }
+    .wrapper {
+        margin-left:0% !important;
+    }
+    .webdi *{
+        line-height:25px;
+        text-align:center !important;
+/*        margin-left:-10%;*/
+    }
+    .webdi {
+        margin-top:-15%;
+    }
+    .webdi h1 {
+        font-size:16px !important;
+        text-align:center !important;
+        margin-left:10%;
+        
+        
+    }
+    .webdi h2{
+        font-size:16px;
+    }
+    .webdi {
+        width:100%;
+    }
+    .w-100 {
+        width:100%;
+    }
+    .next-web-design {
+        float:none;
+        margin:auto !Important;
+        text-align:center;
+        width:100%;
+    }
+    .next-web-design img {
+        width:75%;
+        
+    }
+    .next-web-design h1 {
+        margin-bottom:-5%;
+    }
+    .next-web-design h3 {
+        font-size:18px;
+        
+        line-height:2em;
+        white-space:nowrap;
+        text-align:center;
+        margin:auto;
+    }
+    
+}
+@media (max-width:1366px) {
+    .wrapper {
+        margin-top:-500px;
+    }
+    .graybox {
+        height:33%;
+    }
+    .under_the_box h1{
+        font-size: 30px;
+    }
+}
+@media (max-width:960px) {
+    .graybox {
+        height:20%;
+    }
+    .under_the_box h1{
+        line-height: 55px;
+        font-size:25px;
+    }
+}
