@@ -194,3 +194,22 @@ and (orientation: portrait) {
             height:80vh !important;
         }
 }
+@media only screen
+and (min-width:600px)
+and (max-width:960px)
+and (orientation: portrait) {
+    .graybox {
+        
+    }
+    .next-web-design {
+        float:none;
+        
+    }
+    .next-web-design img {
+        display:block;
+        width:100%;
+    }
+    .wrapper {
+        margin-left:0;
+    }
+}
