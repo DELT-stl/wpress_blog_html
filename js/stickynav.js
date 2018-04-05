@@ -27,5 +27,8 @@ $(window).on('scroll', function() {
             $('li').removeClass('hi-lited');
             $(links.eq(i)).addClass('hi-lited');
            }
+        if ($(window).scrollTop()+$(window).height() <= $('.products').eq(1).offset().top) {
+            $('li').removeClass('hi-lited');
+}
     });
 });
