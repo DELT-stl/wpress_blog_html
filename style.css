@@ -529,11 +529,13 @@ a.more{
 
 /*----Post----*/
 .featured {
-	height: 100vh;
+	height: 100vh !important;
 	position: relative;
 	background: url('img/bgimg.jpg') center center no-repeat;
-	background-size: cover
+	background-size:contain;
+    height:300% !important;
 }
+
 .post_title {
 	position: relative;
 	padding-left: 5vw;
