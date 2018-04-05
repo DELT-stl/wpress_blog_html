@@ -877,7 +877,7 @@ sticky {
 }
 .products {
     position:relative;
-    padding-top:20%;
+/*    padding-top:20%;*/
     
     text-align:center;
         margin:auto;
@@ -885,7 +885,12 @@ sticky {
 .products img {
     padding:20px !important;
 }
-
+.products_content {
+    margin-top:50vh;
+}
+footer {
+    
+}
 /*
 .products-heading {
     height:50vh !important;
