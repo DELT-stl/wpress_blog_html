@@ -529,11 +529,12 @@ a.more{
 
 /*----Post----*/
 .featured {
-	height: 100vh !important;
+	height: 70vh !important;
+    width:80vw !important;
 	position: relative;
 	background: url('img/bgimg.jpg') center center no-repeat;
-	background-size:contain;
-    height:300% !important;
+	background-size:cover;
+/*    height:300% !important;*/
 }
 
 .post_title {
@@ -885,10 +886,12 @@ sticky {
     padding:20px !important;
 }
 
+/*
 .products-heading {
     height:50vh !important;
     
 }
+*/
 .featured-heading {
     height:50vh !important;
 }

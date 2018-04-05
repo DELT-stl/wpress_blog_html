@@ -209,9 +209,9 @@ and (max-device-width : 960px)
         white-space: normal !Important;
     }
     .products_content {
-        margin-top:10vh;
+        margin-top:30vh;
     }
     .main-nav-list {
-        left:-5vw;
+        left:-0.5vw;
     }
 }
