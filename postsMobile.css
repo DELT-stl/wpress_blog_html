@@ -83,13 +83,16 @@
 }
 @media (max-width:1366px) {
     .wrapper {
-/*        margin-top:-500px;*/
+
     }
     .graybox {
-        height:33%;
+        height:60%;
     }
     .under_the_box h1{
         font-size: 30px;
+    }
+    .posts-page {
+        height: 80vh !important;
     }
 }
 @media (max-width:960px) {
