@@ -115,7 +115,7 @@ and (max-device-width : 732px)
 and (orientation: landscape) {
     
     .graybox {
-        height:10%;
+        height:20%;
     }
     .under_the_box h1 {
         display:inline-block;
@@ -124,11 +124,17 @@ and (orientation: landscape) {
     }
     
     .wrapper {
-        margin-top:50vh;
+        margin-top:65vh;
         position:relative;
         width:90%;
         margin-left:auto;
         margin-right:auto;
+    }
+    .next-web-design img {
+        width:60%;
+    }
+    .next-web-design h1 {
+        font-size:30px
     }
     .webdi h1 {
         font-size:16px;
@@ -144,6 +150,41 @@ and (max-device-width : 732px)
 and (orientation: portrait) {
     .posts-page {
         height:80vh !important;
+    }
+    .media {
+        display:block;
+        width:100%;
+        margin-top:0vh;
+        position:relative;
+        
+    }
+    .under_the_box h1{
+        display:inline-block;
+        text-align:center;
+        padding-left:10vw !important;
+        padding-right:10vw !important;
+    }
+    .menumid {
+        display:none;
+    }
+    .graybox {
+/*        display:block;*/
+        margin-top:35vh !Important;
+    }
+    .non-media {
+        display:none;
+    }
+    .next-web-design {
+        margin-top:30vh !important;
+        width:50%;
+        
+        
+    }
+    .next-web-design h1 {
+        padding-bottom:10px;
+    }
+    .webdi h1 {
+        
     }
 }
 @media (max-width:1920px)
