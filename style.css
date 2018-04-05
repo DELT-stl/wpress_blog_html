@@ -1064,7 +1064,9 @@ footer {
 .items .col-md-3 {
 text-align:center;    
 }
-
+.media {
+    display:none;
+}
 *,
 *:before,
 *:after {
