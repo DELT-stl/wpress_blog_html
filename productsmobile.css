@@ -22,7 +22,7 @@ and (max-device-width : 732px)
         }
         .products img {
             display:inline-block;
-            width:40%;
+/*            width:40%;*/
             
             margin:auto;
         }
@@ -181,6 +181,12 @@ and (max-device-width : 960px)
         .featured-heading {
             
         }
+        .clear {
+            height:20vw;
+        }
+        .container {
+            margin-top:0 !important;
+        }
         .featured {
             width:100% !important;
         }
@@ -203,7 +209,25 @@ and (max-device-width : 960px)
             line-height:5vh;
         }
 }
-
+@media (max-width:1366px)
+    and (min-width:1280px) {
+        .main-nav-list {
+            font-size:16px;
+        }
+        .featured-heading h1:first-child{
+            font-size:40px !Important;
+            line-height:50px
+        }
+        .featured, .products img {
+            width:70vw !important;
+        }
+        .featured-heading p {
+            font-size: 16px;
+        }
+        .clear {
+            height: 50vw !important;
+        }
+}
 @media (max-width: 1920px) {
     .products-title {
         white-space: normal !Important;

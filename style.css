@@ -16,13 +16,13 @@ a {
 }
 body {
 	max-width: 100%;
-	overflow-x: hidden;
+/*	overflow-x: hidden;*/
 }
 .center {
 	text-align: center
 }
 body {
-	overflow-x: hidden;
+/*	overflow-x: hidden;*/
 	font-size: 17px;
 	font-weight: 500;
 	-webkit-font-smoothing: antialiased;
@@ -848,68 +848,75 @@ ul {
     text-align:left !important;
 }
 
-sticky {
-    position: sticky;
-    top: 100px;
-}
 .image-overlay h1 {
     text-align:left;
     line-height:30px;
 }
-.main-nav-scrolled {
-    position:fixed !important;
-    top:310 !important;
-    
-    padding-left:155px !important;
-    padding-top:-120 !important;
+#main-nav {
+    margin-left:-60px; 
+    margin-top:-4950px; 
+    width:200px;
+    position:relative;
+    z-index:100;
 }
 .main-nav-list {
-/*    position:fixed;*/
-/*    position:relative;*/
-/*    position:relative;*/
-    line-height:40px;
-    
-    white-space:nowrap;
+    position:sticky;
+    top: 200px;
+/*    top:0px;*/
+    margin-top: 5450px;
+    width:200px;
+/*    height:20px;*/
     list-style:none;
-/*    left:-30px;*/
-    top:380px;
-    
+    white-space:nowrap;
+    line-height: 40px;
 }
 .products {
     position:relative;
 /*    padding-top:20%;*/
-    
+    padding-bottom:20vh;
     text-align:center;
         margin:auto;
 }
 .products img {
-    padding:20px !important;
+    width:80vw;
 }
 .products_content {
-    margin-top:50vh;
-}
-footer {
+    position:relative;
+/*    top:100vh;*/
+    
     
 }
-/*
-.products-heading {
-    height:50vh !important;
-    
+
+.featured img{
+    position:relative;
+    margin-bottom:50vh;
 }
-*/
+
 .featured-heading {
     height:50vh !important;
 }
-.main-nav {position:absolute; top:300px;}
+.main-nav {
+    
+}
 .main-nav-list li {
     transition: 1s;
     cursor:pointer;
+    
+    
 }
 .main-nav-list li:hover {
     color:black;
 }
 .fixed		{ position: fixed; top:0;}
-/*#main-nav 			{ position: absolute; width: 100%; background: #bbb; z-index:1; height: 75px; left: 0; top:300px;}*/
+/*
+#main-nav {
+    margin-left:-60px; 
+    margin-top:-2500px; 
+    width:200px;
+    position:relative;
+    z-index:100;
+}
+*/
 
 .products-title {
 	color: #1C1E2C;
@@ -941,8 +948,8 @@ footer {
   width: 100%
 }
 .no-overflow {
-    overflow-x:hidden;
-    overflow-y:hidden;
+/*    overflow-x:hidden;*/
+/*    overflow-y:hidden;*/
 }
 .main-content .posts-page {
    margin-top:10%;   
@@ -1004,8 +1011,9 @@ footer {
     font-size:60px;
 }
 footer {
-    height:1000px;
+    height:30000px;
     background:red;
+    
 }
 .hi-lited {
     color:black !important;
@@ -1068,7 +1076,7 @@ footer {
 }
 .clear {
     width:100%;
-    height:150px;
+    height:70vh;
 }
 
 .items .col-md-3 {
