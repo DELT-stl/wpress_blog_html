@@ -833,6 +833,7 @@ ul {
 }
 .featured-heading p {
     color:black;
+    padding-bottom:30px;
 }
 .featured-heading .featured {
     height: 75vh;
@@ -854,31 +855,41 @@ ul {
 }
 #main-nav {
     margin-left:-60px; 
-    margin-top:-4950px; 
+/*    margin-top:-4950px; */
     width:200px;
     position:relative;
     z-index:100;
+}
+.main-nav-scrolled {
+    margin-top:-310px !important;
 }
 .main-nav-list {
     position:sticky;
     top: 200px;
 /*    top:0px;*/
-    margin-top: 5450px;
+    font-size:14px !Important;
+/*    margin-top: 5450px;*/
     width:200px;
 /*    height:20px;*/
     list-style:none;
     white-space:nowrap;
-    line-height: 40px;
+    line-height: 30px;
 }
 .products {
     position:relative;
 /*    padding-top:20%;*/
-    padding-bottom:20vh;
+    padding-bottom:50vh;
     text-align:center;
+    width:60vw;
+    height:10vw;
+    margin-bottom:10vw !important;
+    
+    overflow-y:hidden !important;
+    overflow-x:hidden;
         margin:auto;
 }
-.products img {
-    width:80vw;
+.featured-img{
+   
 }
 .products_content {
     position:relative;
@@ -918,13 +929,18 @@ ul {
 }
 */
 
-.products-title {
+/*
+.products_title {
 	color: #1C1E2C;
+    margin-top:100px;
 	text-transform: uppercase;
+    font-size:40px !Important;
 	position: relative;
+    
+    text-align:center;
 	font-family: 'airfare'
 }
-.products-title:after {
+.products_title:after {
 	position: absolute;
 	width: 50%;
 	bottom: 40;
@@ -933,13 +949,15 @@ ul {
 	height: 55%;
 	content: '';
 	z-index: -1;
-/*	margin-left: -5px;*/
+	margin-left: -5px;
 	transition: .5s ease-in;
 }
-.products-title:hover:after {
+.products_title:hover:after {
 	transform: scale(1.5);
 	background: #9b03fc
 }
+*/
+
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
 .sticky {
@@ -1076,7 +1094,7 @@ footer {
 }
 .clear {
     width:100%;
-    height:70vh;
+/*    height:70vh;*/
 }
 
 .items .col-md-3 {

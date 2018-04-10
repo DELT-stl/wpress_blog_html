@@ -1,13 +1,17 @@
-//var bdh = $("body").height();
-//var products = new Array($(".products").length);
-//
-//$('.main-nav-list').sticky({
-//    topSpacing: 410,
-//    zIndex: 100,
-//    stopper: "#footer",
-//    stickyClass: ".main-nav-scrolled"
-//});
-//    //EXECUTES ONLY ONCE
+var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+if (is_chrome) {
+var bdh = $("body").height();
+var products = new Array($(".products").length);
+var spacing = $('.main-nav-list').offset().top * -1;
+$('.main-nav-list').sticky({
+    topSpacing: 710,
+    zIndex: 100,
+    stopper: "#footer",
+    stickyClass: "main-nav-scrolled"
+});
+}
+else {
+    //EXECUTES ONLY ONCE
 //function once(fn, context) { 
 //	var result;
 //	return function() { 
@@ -18,7 +22,7 @@
 //		return result;
 //	};
 //}
-//
+
 
 stickyNav();
 //$(window).on('resize', stickyNav("something"));
@@ -46,3 +50,4 @@ $(window).on('scroll', function() {
 }
     });
 });
+}
