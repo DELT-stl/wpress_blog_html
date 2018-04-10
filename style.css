@@ -883,9 +883,11 @@ ul {
     width:60vw;
     height:10vw;
     margin-bottom:10vw !important;
+/*
     
     overflow-y:hidden !important;
     overflow-x:hidden;
+*/
         margin:auto;
 }
 .featured-img{
