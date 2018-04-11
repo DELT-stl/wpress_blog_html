@@ -9,15 +9,25 @@ if (is_chrome) {
 //    stopper: "#footer",
 //    stickyClass: "main-nav-scrolled"
 //});
-    var firstImage = $('#ux_prototyping').offset().top;
-    var navOffset = $('#main-nav').offset().top;
-    
-$('.main-nav-list').css({ "position" : "relative"});
-$('#main-nav').css({ "margin-top" : 200});
-    
-    if ($(window).scrollTop() > $('#ux_prototyping').offset().top) {
-        $('#main-nav').css({ "position" : "fixed"});
+var e = 0;
+var l = $("#ux_prototyping").offset().top;
+var y = $('.mainNavList').offset().top - $(window).scrollTop();
+$(window).on('scroll', function() {
+    if ($(window).scrollTop() > 600 && e == 0) {
+        $('.mainNavList').css({ "top" : y});
+        $('.mainNavList').css({ "position" : "fixed"});
+        e = 1;
     }
+    else if ($(window).scrollTop() < 600 && e == 1) {
+        $('.mainNavList').css({ "position" : "relative"});
+        e = 0;
+    }
+    else {}
+})    
+
+
+//$('.mainNavList').css({ "position" : "fixed"});
+    
 }
 else {
     //EXECUTES ONLY ONCE

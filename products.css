@@ -1,5 +1,5 @@
 
-.products_title {
+.productsTitle {
 	color: #1C1E2C;
     margin-top:100px;
 	
@@ -18,18 +18,33 @@
 }
 .software_image {
     width:70%;
+    height:600px;
     display:block;
     margin:auto;
-    z-index:-1;
+    position:relative;
     padding-top:1%;
 }
 
 .imageText {
-    width:30%;
-    margin-left:15%;
-    vertical-align:middle;
+    width:40%;
+    display:block;
+    bottom:0;
     position:absolute;
     background:white;
+    
+}
+.imageText h2 {
+    font-size:30px;
+    margin:0px;
+}
+.imageText h1 {
+    font-size:40px;
+    line-height:100%;
+    margin-bottom:3%
+}
+.imageText p {
+    color:black;
+    
 }
 .clear {
     width:100%;
@@ -97,12 +112,33 @@ h7:hover:after {
     transform: scale(1.5);
     transform-origin: left;
 }
-.invision_header {
+.invisionHeader {
     text-align:center;
     line-height:40px;
-    height:100px;
+    height:150px;
 }
-.main-nav-list li:nth-child(9) {
+#mainNav {
+    
+    
+    margin-left:-60px; 
+/*    margin-top:-4950px; */
+    width:200px;
+    position:absolute;
+    top:400px;
+    z-index:100;
+}
+.mainNavList {
+    
+/*    top:0px;*/
+    font-size:14px !Important;
+/*    margin-top: 5450px;*/
+    
+/*    height:20px;*/
+    list-style:none;
+    white-space:nowrap;
+    line-height: 30px;
+}
+.mainNavList li:nth-child(9) {
     text-align:center;
     color:black;
     font-family:'airfare';
@@ -110,7 +146,7 @@ h7:hover:after {
     padding-top:5%;
     font-weight: bold !important;
 }
-.main-nav-list li:nth-child(9):after {
+.mainNavList li:nth-child(9):after {
     position: absolute;
 	width: 90%;
 	bottom: 5px;
@@ -130,6 +166,7 @@ h7:hover:after {
     text-align:center;
     
 /*    padding: 0 25 0 25;*/
+    margin-bottom:10% !important;
     margin:auto;
     width:100%;
     white-space:nowrap;
@@ -140,19 +177,96 @@ h7:hover:after {
     
     
 }
-.hContainer h9:after {
+.hContainer {
+    position:relative;
+}
+.hContainer:after {
     position: absolute;
-	width: 10%;
+	width: 50%;
 	bottom: 0;
-	left: 40%;
+	left: 20%;
 	background: #03fc96;
-	height: 5%;
+	height: 50%;
 	content: '';
 	z-index: -1;
 	transition: .5s ease-in;
 }
 .hContainer {
     display: inline-block;
+    
+    
+}
+.hContainer h9 {
+    color:black;
+}
+.insp {
+    margin-bottom:10%
+}
+.blackBox {
+    width:300px;
+    height:200px;
+    background:black;
+    margin:auto;
+}
+.blackBox h10, .blackBox h11{
+    width:100% !important;
+    display:block;
+    position: relative;
+    top:118%;
+    font-family: 'airfare';
+    color:black;
+    text-align:center;
+}
+h10 {
+    font-size:20px;
+    text-transform: uppercase;
+}
+h11 {
+    font-size: 30px;
+}
+.otherBox {
+    width:300px;
+    height:300px;
+/*    position:absolute;*/
+    margin:auto;
+    background:grey;
+    margin:auto;
+}
+.oBoxContainer {
+    width:100%;
+    height:200px;
+}
+.divider {
+    width:90%;
+    height:100px;
+    margin-bottom:10% !important;
+    background:gray;
+    margin:auto;
+}
+.nPageContainer {
+    width:100% !important;
+    height:100px;
+}
+.nPageContainer h12{
+    text-align:center;
+    position:relative;
+    display:block;
+    font-size:20px;
+    width:20%;
+    color:black;
+    margin:auto;
+}
+.nPageContainer h12:after {
+    position: absolute;
+	width: 40%;
+	bottom: 0;
+	left: 30%;
+	background: #03fc96;
+	height: 55%;
+	content: '';
+	z-index: -1;
+/*	margin-left: -5px;*/
+	transition: .5s ease-in;
 }
 /*
 .softwareNavList {
