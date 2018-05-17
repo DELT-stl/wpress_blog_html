@@ -9,90 +9,37 @@ permalink: >
 published: true
 post_date: 2018-04-24 02:09:49
 ---
-Mockups make life so much easier.
+Mockups make life so much easier. When it comes to branding, having the ability to design a t-shirt without having to actually screen-print your design and photograph it will make your like exponentially easier. Finding quality [free psd mockups][1] is hard to come by. Here at CreativesFeed, we personally check the mockups we list before promoting them on our site. If you have to click out of a million different popups or guess which of the fifty download buttons are actually the right one, we won't send you there. 
+## Free t-shirt mockup downloads Looking for free t-shirt mockups that aren't out of date or being used on a million other websites? We have a list of quality and 100% free t-shirt mockups for Photoshop. To download, click on the link below the description to visit the website and get your free mockup! 
 
-When it comes to branding, having the ability to design a t-shirt without having to actually screen-print your design and photograph it will make your like exponentially easier.
+<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-womens-t-shirt-mockup.jpg" alt="Free women's t-shirt mockup psd" class="" /> 
+## **Free women's t-shirt mockup** A very modern and trendy t-shirt mockup from our friends over at Mr. Mockup. This mockup comes with a single view that allows you to edit the woman's shirt with your own custom design. 
 
-Finding quality <a href="http://127.0.0.1:8080/wordpress/free-mockups/">free psd mockups</a> is hard to come by.
+<a href="https://mrmockup.com/psd-mockups/women-t-shirt-mockup/" target="_blank" rel="noopener">Download freebie here</a> <img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-t-shirt-mockup-psd-design.jpg" alt="free t-shirt mockup psd" class="" /> 
+## **Free Plain T-Shirt Mockup** Another awesome freebie by Mr. Mockup, this mockup is for a plain t-shirt. With this t-shirt mockup you have full customization of both the t-shirt's color and the background color via smart objects. To download, click the link below. 
 
-Here at CreativesFeed, we personally check the mockups we list before promoting them on our site.
+<a href="https://mrmockup.com/psd-mockups/t-shirt-mockup-psd/" target="_blank" rel="noopener">Download freebie here</a> <img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-custom-t-shirt-mockup.gif" alt="free custom t-shirt mockup" class="" /> 
+## **Free Custom Men's Shirt Mockup** This shirt mockup showcases your design with a man wearing the t-shirt. Created by 
 
-If you have to click out of a million different popups or guess which of the fifty download buttons are actually the right one, we won't send you there.
-<h2>Free t-shirt mockup downloads</h2>
-Looking for free t-shirt mockups that aren't out of date or being used on a million other websites?
+[Boumkil Abdel][2] and [Fuji Studio][3], you can download this branded t-shirt design on Behance or using the link below. <a href="https://www.behance.net/gallery/59547941/Free-T-Shirt-Mockup" target="_blank" rel="noopener">Download freebie here</a> <img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/realistic-mens-t-shirt-mockup.jpg" alt="realistic mens t shirt mockup psd" class="" /> 
+## **Realistic Men's Full-Graphic T-Shirt** Another awesome t-shirt freebie by Boumkil Abdel, this mockup gives an incredibly realistic look. The shirt showcases extremely detailed wrinkles and allows you to edit the background and add a full-graphic to the front of the shirt as well as the sleeves. To download this t-shirt freebie, click on the link below! 
 
-We have a list of quality and 100% free t-shirt mockups for Photoshop.
+<a href="https://www.behance.net/gallery/62593115/Free-Clean-T-shirt-Mockup" target="_blank" rel="noopener">Download freebie here </a> <img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/plain-hanging-t-shirt-mockup.jpg" alt="free hanging t shirt mockup" class="" /> 
+## Free Hanging T-Shirt Mockup This is an extremely simple, yet very realistic t-shirt mockup hanging on a shirt hanger. You can add your logo or designs to the front of the shirt and also edit the background image or color. Created by 
 
-To download, click on the link below the description to visit the website and get your free mockup!
+[Vayn Studios][4], you can download this freebie at the link below. <a href="https://www.graphicpear.com/white-realistic-t-shirt-mockup/" target="_blank" rel="noopener">Download freebie here</a> <img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/awesome-long-sleeve-t-shirt-mockup.jpg" alt="free long sleeve t shirt mockup" class="" /> 
+## Free Long Sleeve T-Shirt Mockup This is an unbelievably well-designed mockup of a long-sleeve t-shirt. With this mockup, you have complete control over pretty much every aspect of the design. You can add full graphic designs to the shirt and sleeves. You can also add any color or background image you would like! 
 
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-womens-t-shirt-mockup.jpg" alt="Free women's t-shirt mockup psd" class="" />
-<h2><strong>Free women's t-shirt mockup</strong></h2>
-A very modern and trendy t-shirt mockup from our friends over at Mr. Mockup.
+<a href="http://www.michaelhoss.com/blog/free-longsleeve-t-shirt-mockup" target="_blank" rel="noopener">Download freebie here</a> <img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-longline-womens-t-shirt-mockup.jpg" alt="longline women's t shirt mockup" class="" /> 
+## **Free Longline Women's T-Shirt Mockup** This free longline women's shirt is an extremely unique mockup that is perfect for marketing your brand or fashion line to women. With this PSD, you have the have option to edit the pocket design or remove it all together! You can also add a full logo or graphic to the front of the t-shirt. 
 
-This mockup comes with a single view that allows you to edit the woman's shirt with your own custom design.
+<a href="http://www.michaelhoss.com/blog/free-longline-t-shirt-mockup" target="_blank" rel="noopener">Download freebie here</a> 
+* * *
 
-<a href="https://mrmockup.com/psd-mockups/women-t-shirt-mockup/" target="_blank" rel="noopener">Download freebie here</a>
+<a href="http://www.michaelhoss.com/blog/free-longline-t-shirt-mockup" target="_blank" rel="noopener"></a> Interested in more [free t-shirt mockups][5]? Check out our [free mockups page][1] to see them all!
 
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-t-shirt-mockup-psd-design.jpg" alt="free t-shirt mockup psd" class="" />
-<h2><strong>Free Plain T-Shirt Mockup</strong></h2>
-Another awesome freebie by Mr. Mockup, this mockup is for a plain t-shirt.
-
-With this t-shirt mockup you have full customization of both the t-shirt's color and the background color via smart objects.
-
-To download, click the link below.
-
-<a href="https://mrmockup.com/psd-mockups/t-shirt-mockup-psd/" target="_blank" rel="noopener">Download freebie here</a>
-
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-custom-t-shirt-mockup.gif" alt="free custom t-shirt mockup" class="" />
-<h2><strong>Free Custom Men's Shirt Mockup</strong></h2>
-This shirt mockup showcases your design with a man wearing the t-shirt.
-
-Created by <a href="https://www.behance.net/Boumkil">Boumkil Abdel</a> and <a href="https://www.behance.net/sparxe_x5bdb6">Fuji Studio</a>, you can download this branded t-shirt design on Behance or using the link below.
-
-<a href="https://www.behance.net/gallery/59547941/Free-T-Shirt-Mockup" target="_blank" rel="noopener">Download freebie here</a>
-
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/realistic-mens-t-shirt-mockup.jpg" alt="realistic mens t shirt mockup psd" class="" />
-<h2><strong>Realistic Men's Full-Graphic T-Shirt</strong></h2>
-Another awesome t-shirt freebie by Boumkil Abdel, this mockup gives an incredibly realistic look.
-
-The shirt showcases extremely detailed wrinkles and allows you to edit the background and add a full-graphic to the front of the shirt as well as the sleeves.
-
-To download this t-shirt freebie, click on the link below!
-
-<a href="https://www.behance.net/gallery/62593115/Free-Clean-T-shirt-Mockup" target="_blank" rel="noopener">Download freebie here </a>
-
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/plain-hanging-t-shirt-mockup.jpg" alt="free hanging t shirt mockup" class="" />
-<h2>Free Hanging T-Shirt Mockup</h2>
-This is an extremely simple, yet very realistic t-shirt mockup hanging on a shirt hanger.
-
-You can add your logo or designs to the front of the shirt and also edit the background image or color.
-
-Created by <a href="https://www.behance.net/vaynstudios">Vayn Studios</a>, you can download this freebie at the link below.
-
-<a href="https://www.graphicpear.com/white-realistic-t-shirt-mockup/" target="_blank" rel="noopener">Download freebie here</a>
-
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/awesome-long-sleeve-t-shirt-mockup.jpg" alt="free long sleeve t shirt mockup" class="" />
-<h2>Free Long Sleeve T-Shirt Mockup</h2>
-This is an unbelievably well-designed mockup of a long-sleeve t-shirt.
-
-With this mockup, you have complete control over pretty much every aspect of the design. You can add full graphic designs to the shirt and sleeves.
-
-You can also add any color or background image you would like!
-
-<a href="http://www.michaelhoss.com/blog/free-longsleeve-t-shirt-mockup" target="_blank" rel="noopener">Download freebie here</a>
-
-<img src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2018/04/free-longline-womens-t-shirt-mockup.jpg" alt="longline women's t shirt mockup" class="" />
-<h2><strong>Free Longline Women's T-Shirt Mockup</strong></h2>
-This free longline women's shirt is an extremely unique mockup that is perfect for marketing your brand or fashion line to women.
-
-With this PSD, you have the have option to edit the pocket design or remove it all together!
-
-You can also add a full logo or graphic to the front of the t-shirt.
-
-<a href="http://www.michaelhoss.com/blog/free-longline-t-shirt-mockup" target="_blank" rel="noopener">Download freebie here</a>
-
-<hr />
-
-<a href="http://www.michaelhoss.com/blog/free-longline-t-shirt-mockup" target="_blank" rel="noopener"></a>
-
-Interested in more <a href="http://127.0.0.1:8080/wordpress/free-mockups/clothing/">free t-shirt mockups</a>? Check out our <a href="http://127.0.0.1:8080/wordpress/free-mockups/">free mockups page</a> to see them all!
+ [1]: http://127.0.0.1:8080/wordpress/free-mockups/
+ [2]: https://www.behance.net/Boumkil
+ [3]: https://www.behance.net/sparxe_x5bdb6
+ [4]: https://www.behance.net/vaynstudios
+ [5]: http://127.0.0.1:8080/wordpress/free-mockups/clothing/
